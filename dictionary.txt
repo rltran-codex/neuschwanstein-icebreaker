@@ -1,23 +1,45 @@
 Raesfeld: A municipality in the district of Borken in the state of North Rhine-Westfalia, Germany. Has a very pretty castle with a moat.
+
 Flughafen: Airport
+
 Berlin: Capital city of Germany, seat of culture and full of fun nightclubs. The best thing about Berlin, Currywurst.
+
 Bratwurst: Delicious sausage made from pork. Often served with sauerkraut, mustard, and onions.
+
 Hauptstrasse: Main street
+
 Brot: Bread
-Klimaanlage
-Rammstein
-Porche
-BMW
-Biergarten
-Ratskeller
-Dirndel
-Lederhose
-Schloss
-wettbewerbsfaehig
-Mehlhase
-Gebaeck
-Baeckerei
-Hund
-Doener
-Apfelkuchen
-Eltz
+
+Klimaanlage: air conditioner 
+
+Rammstein: a German Neue Deutsche Härte band formed in Berlin in 1994
+
+Porsche: a motorvehicle company known for high class sportscars and luxury vehicles.
+
+BMW: // TODO
+
+Biergarten: Beer garden
+
+Ratskeller: council room
+
+Dirndel: woman's dress traditionally worn for folk customary
+
+Lederhose: // TODO
+
+Schloss: // TODO
+
+wettbewerbsfaehig: // TODO
+
+Mehlhase: // TODO
+
+Gebaeck: // TODO
+
+Baeckerei: // TODO
+
+Hund: // TODO
+
+Doener: // TODO
+
+Apfelkuchen: // TODO
+
+Eltz: // TODO
