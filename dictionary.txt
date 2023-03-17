@@ -1,9 +1,9 @@
-Raesfeld
-Flughafen
-Berlin
-Bratwurst
-Hauptstrasse
-Brot
+Raesfeld: A municipality in the district of Borken in the state of North Rhine-Westfalia, Germany. Has a very pretty castle with a moat.
+Flughafen: Airport
+Berlin: Capital city of Germany, seat of culture and full of fun nightclubs. The best thing about Berlin, Currywurst.
+Bratwurst: Delicious sausage made from pork. Often served with sauerkraut, mustard, and onions.
+Hauptstrasse: Main street
+Brot: Bread
 Klimaanlage
 Rammstein
 Porche
