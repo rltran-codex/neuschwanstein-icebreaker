@@ -16,7 +16,7 @@ Rammstein: a German Neue Deutsche Härte band formed in Berlin in 1994
 
 Porsche: a motorvehicle company known for high class sportscars and luxury vehicles.
 
-BMW: // TODO
+BMW: German automobile manufacturer
 
 Biergarten: Beer garden
 
@@ -24,22 +24,22 @@ Ratskeller: council room
 
 Dirndel: woman's dress traditionally worn for folk customary
 
-Lederhose: // TODO
+Lederhose: Traditional German leather breeches
 
-Schloss: // TODO
+Schloss: A German castle or manor hourse. Also lock, bolt, clasp, fastener
 
-wettbewerbsfaehig: // TODO
+wettbewerbsfaehig Competitive
 
-Mehlhase: // TODO
+Mehlhase: Computer researcher. Alexandra Mehlhase is a software engineering lecturer in the School of Computing, Informatics, and Decision Systems Engineering. She worked at the Technical University of Berlin for more than six years as a research and teaching assistant in software engineering. Her research interests include modeling and simulation of variable-structure models and software engineering. 
 
-Gebaeck: // TODO
+Gebaeck: Pastry, biscuit, or cake
 
-Baeckerei: // TODO
+Baeckerei: Bakery
 
-Hund: // TODO
+Hund: Dog
 
-Doener: // TODO
+Doener: Kebab, a common snack in Germany, usually served in a sandwich with salad and sauce
 
-Apfelkuchen: // TODO
+Apfelkuchen: Apple cake
 
-Eltz: // TODO
+Eltz: Eltz castle (Burg Eltz in German) is an authentic medieval castle that survived the centuries. Its unique setting on an oval rock in the Elzbach valley, surrounded by woodlands and the little stream (on three sides), gives the castle a fairytale and magic appearance. It is still owned by a branch of House of Eltz who have lived there since the 12th century.
